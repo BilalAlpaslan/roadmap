@@ -10,7 +10,7 @@ export default function Kariyer(props) {
             <>
                 <div class="row" style={{"paddingTop":"50px"}}>
                     <div class="col-md-4"/>
-                    <div class="col-md-4 mycard">{kar.baslik}</div>
+                    <div class="col-md-4 headCard">{kar.baslik}</div>
                     <div class="col-md-4"/>
                 </div>
             {kar.roadmap.map(step=>(

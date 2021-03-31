@@ -16,6 +16,11 @@
     padding-top: 10px;
 }
 
+.headCard{
+    background-color: darkred;
+    text-align: center;
+    color: white;
+}
 
 
 .myrow{
