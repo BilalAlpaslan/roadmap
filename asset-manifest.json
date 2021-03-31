@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/roadmap/static/css/main.9b86c80b.chunk.css",
-    "main.js": "/roadmap/static/js/main.6f741119.chunk.js",
-    "main.js.map": "/roadmap/static/js/main.6f741119.chunk.js.map",
+    "main.css": "/roadmap/static/css/main.235689c2.chunk.css",
+    "main.js": "/roadmap/static/js/main.0b00c4f6.chunk.js",
+    "main.js.map": "/roadmap/static/js/main.0b00c4f6.chunk.js.map",
     "runtime-main.js": "/roadmap/static/js/runtime-main.eac915c4.js",
     "runtime-main.js.map": "/roadmap/static/js/runtime-main.eac915c4.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/roadmap/static/css/2.4c97ca4f.chunk.css",
@@ -10,14 +10,14 @@
     "static/js/2.a219453e.chunk.js.map": "/roadmap/static/js/2.a219453e.chunk.js.map",
     "index.html": "/roadmap/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/roadmap/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.9b86c80b.chunk.css.map": "/roadmap/static/css/main.9b86c80b.chunk.css.map",
+    "static/css/main.235689c2.chunk.css.map": "/roadmap/static/css/main.235689c2.chunk.css.map",
     "static/js/2.a219453e.chunk.js.LICENSE.txt": "/roadmap/static/js/2.a219453e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.eac915c4.js",
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.a219453e.chunk.js",
-    "static/css/main.9b86c80b.chunk.css",
-    "static/js/main.6f741119.chunk.js"
+    "static/css/main.235689c2.chunk.css",
+    "static/js/main.0b00c4f6.chunk.js"
   ]
 }
