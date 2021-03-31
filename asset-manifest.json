@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/roadmap/static/css/main.9b86c80b.chunk.css",
-    "main.js": "/roadmap/static/js/main.789877b0.chunk.js",
-    "main.js.map": "/roadmap/static/js/main.789877b0.chunk.js.map",
+    "main.js": "/roadmap/static/js/main.6f741119.chunk.js",
+    "main.js.map": "/roadmap/static/js/main.6f741119.chunk.js.map",
     "runtime-main.js": "/roadmap/static/js/runtime-main.eac915c4.js",
     "runtime-main.js.map": "/roadmap/static/js/runtime-main.eac915c4.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/roadmap/static/css/2.4c97ca4f.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.a219453e.chunk.js",
     "static/css/main.9b86c80b.chunk.css",
-    "static/js/main.789877b0.chunk.js"
+    "static/js/main.6f741119.chunk.js"
   ]
 }
