@@ -7,7 +7,7 @@ export const data =[
     {
         "name":"frontend",
         "baslik":"frontend, web'in görüp etkileşime girebildiğiniz kısımlarına verilen addır. Frontend genellikle web tasarımı ve web'in ön yüzünün geliştirilmesini kapsar. Web tasarımı dendiğinde; Adobe XD ve Photoshop gibi tasarım programlarını kullanabilen, aynı zamanda da HTML, CSS, JavaScript ile kod yazabilen kişilerden bahsedilir. Bir web sitesini kullanırken gördüğünüz her şey; HTML, CSS ve JavaScript'in, kullandığınız web tarayıcı tarafından kontrol edilmesidir. Bunun içinde de fontlar, açılır menüler, geçişler, sliderlar, iletişim formları vb. tasarımsal işler yer alır.",
-        "roadmap":["html","css","javascript","javascript framework(react,angular,vue)"],
+        "roadmap":["html","css","javascript","javascript framework"],
     },
     {
         "name":"mobil",
